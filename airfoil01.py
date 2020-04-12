@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 foil_x = []
 foil_y = []
 
-filename = "clarky.txt"
+filename = "0012.txt"
 
 foil = open(filename, "r")
 
