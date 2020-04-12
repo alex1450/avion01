@@ -22,4 +22,6 @@ for line in foil:
 
 # print(foil_x)
 plt.plot(foil_x, foil_y)
+plt.xlim(-10, 210)
+plt.ylim(-110, 110)
 plt.show()
